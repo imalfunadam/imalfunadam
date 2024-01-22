@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**imalfunadam/imalfunadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adam! I aspire to be a data professional, and I want to continue learning and growing in the world of data. I dove into the world of data analysis, data science, and machine learning. Skilled in python libraries, sql queries and problem solving, communication, critical thinking. I'm always looking for ways to use data analysis to solve problems.
 
-Here are some ideas to get you started:
+### ✅ Competencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explotaroty Data Analysis, Data Wraggling, Statistical Analysis, Data Visualization, Machine Learning, Natural Language Processing, RDBMS
+
+### 💻 Tech Stack
+
+Python, SQL (MySQL, Postgres, MS SQL Server), BigQueryLooker Studio, Spark, Airflow, Kafka, Docker, Google Cloud, Streamlit
+
+### 📂 Project Portofolio
+
+Click here, please!
